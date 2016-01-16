@@ -1,2 +1,2 @@
-# antispam
-Config files for anti-spam protection
+# Anti spam
+Configuration files for anti-spam protection
